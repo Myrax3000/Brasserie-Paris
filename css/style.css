@@ -154,12 +154,13 @@
 
 	.ligne {
 		display: flex;
-		justify-content: center;
+		flex-wrap: wrap;
+		justify-content: space-around;
 	}
 
 	.box2 {
-		margin-left: 30px;
-		margin-right: 30px;
+		margin-left: 0px;
+		margin-right: 0px;
 	}
 
 /* Section/Article */
