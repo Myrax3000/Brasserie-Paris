@@ -152,6 +152,16 @@
 		text-align: right;
 	}
 
+	.ligne {
+		display: flex;
+		justify-content: center;
+	}
+
+	.box2 {
+		margin-left: 30px;
+		margin-right: 30px;
+	}
+
 /* Section/Article */
 
 	section.special, article.special {
